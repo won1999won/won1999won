@@ -4,5 +4,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/won1999won/won1999won/assets/157452264/57170416-456d-42ff-a904-d8e4b24c0c45">
+  <img src="https://github.com/won1999won/won1999won/assets/157452264/57170416-456d-42ff-a904-d8e4b24c0c45"witdh="40%">
 </p>
